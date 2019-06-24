@@ -2,7 +2,7 @@
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/DouglasAmarelo">
-    <img alt="Twitter: @DouglasAmarelo" src="https://img.shields.io/twitter/follow/DouglasAmarelo.svg?style=social" target="_blank" />
+    <img alt="Twitter: @DouglasAmarelo" src="https://img.shields.io/twitter/follow/@DouglasAmarelo.svg?style=social" target="_blank" />
   </a>
 </p>
 
